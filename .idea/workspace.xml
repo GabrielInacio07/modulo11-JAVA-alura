@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="Ex03 - Modelagem com classe abstrata, método abstrato e geração de código reutilizável nas subclasses">
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex04/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex04/Notificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex04/Push.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex04/SMS.java" afterDir="false" />
+    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="EX04 - implementa hierarquia de notificações com classe abstrata e sobrescrita de métodos&quot;">
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex05/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex05/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex05/PIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex05/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex05/Taxa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" afterDir="false" />
@@ -135,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772400164071</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="EX04 - implementa hierarquia de notificações com classe abstrata e sobrescrita de métodos&quot;">
+      <option name="closed" value="true" />
+      <created>1772402392001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772402392001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +154,7 @@
     <MESSAGE value="Primeiro exercicio lapidando conceitos de POO, como Polimorfismo -&gt; Herança -&gt; Interface" />
     <MESSAGE value="Segundo exercicio, com Herança, Polimorfismo, Interface, e tratando exception, impedindo objeto de ser criado caso esteja divergente do esperado" />
     <MESSAGE value="Ex03 - Modelagem com classe abstrata, método abstrato e geração de código reutilizável nas subclasses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex03 - Modelagem com classe abstrata, método abstrato e geração de código reutilizável nas subclasses" />
+    <MESSAGE value="EX04 - implementa hierarquia de notificações com classe abstrata e sobrescrita de métodos&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="EX04 - implementa hierarquia de notificações com classe abstrata e sobrescrita de métodos&quot;" />
   </component>
 </project>
