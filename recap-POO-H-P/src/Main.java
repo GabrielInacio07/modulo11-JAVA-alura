@@ -1,14 +1,23 @@
 import Model.Ex02.Aluno;
 import Model.Ex02.Docente;
+import Model.Ex03.Ebook;
+import Model.Ex03.Livro;
+import Model.Ex03.Midia;
+import Model.Ex03.Revista;
 
 class Main{
     public static void main(String[] args) {
-        System.out.println("EX02");
+        System.out.println("EX03");
 
-        Aluno student = new Aluno("Gabriel Inácio",21,12);
-        Docente docente = new Docente("João da Silva",45,"Linguagem de programação");
+        Livro book = new Livro("O príncepe",2005,"Máquiavel");
+        Revista revista = new Revista("Shonen Jump",2026,14);
+        Ebook ebook = new Ebook("Clean Code",2008,"PDF");
 
-        student.exibirDados();
-        docente.exibirDados();
+        book.showDetails();
+        revista.showDetails();
+        ebook.showDetails();
+//        Midia teste = new Midia("Hobbit","1993");
+//
+//        System.out.println(teste.gerarCodigo(teste.getTitle(),teste.getYear()));
     }
 }
