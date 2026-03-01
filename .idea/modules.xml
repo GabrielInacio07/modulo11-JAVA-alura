@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modulo11-JAVA-alura.iml" filepath="$PROJECT_DIR$/.idea/modulo11-JAVA-alura.iml" />
-      <module fileurl="file://$PROJECT_DIR$/recap-POO-H-P/recap-POO-H-P.iml" filepath="$PROJECT_DIR$/recap-POO-H-P/recap-POO-H-P.iml" />
-    </modules>
-  </component>
-</project>
