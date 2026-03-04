@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="Ex07 - aplica conceito de interface criando contrato Imprimivel e implementação em Relatorio">
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex09/AcaoBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex09/Deposito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex09/OperacaoBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex09/Saque.java" afterDir="false" />
+    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="Ex09 - aplica contrato via interface e classe abstrata para operações bancárias com polimorfismo&quot;">
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex10/ArCondicionado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex10/Controlavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex10/Luz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" afterDir="false" />
@@ -175,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772590337182</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ex09 - aplica contrato via interface e classe abstrata para operações bancárias com polimorfismo&quot;">
+      <option name="closed" value="true" />
+      <created>1772590989369</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772590989369</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +197,7 @@
     <MESSAGE value="Ex06 - adiciona variações de envio de mensagem utilizando sobrecarga de métodos" />
     <MESSAGE value="Ex07 - aplica sobrecarga e sobrescrita de métodos com herança nas classes Reserva e ReservaVip&quot;" />
     <MESSAGE value="Ex07 - aplica conceito de interface criando contrato Imprimivel e implementação em Relatorio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex07 - aplica conceito de interface criando contrato Imprimivel e implementação em Relatorio" />
+    <MESSAGE value="Ex09 - aplica contrato via interface e classe abstrata para operações bancárias com polimorfismo&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex09 - aplica contrato via interface e classe abstrata para operações bancárias com polimorfismo&quot;" />
   </component>
 </project>

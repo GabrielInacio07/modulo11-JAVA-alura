@@ -1,16 +1,24 @@
-import Model.Ex09.Deposito;
-import Model.Ex09.OperacaoBancaria;
-import Model.Ex09.Saque;
+import Model.Ex10.ArCondicionado;
+import Model.Ex10.Luz;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Ex09");
+        System.out.println("Ex10");
 
-        OperacaoBancaria deposito = new Deposito(500);
-        OperacaoBancaria saque = new Saque(200);
 
-        deposito.executar();
-        saque.executar();
+        Luz luz = new Luz();
+        ArCondicionado ar = new ArCondicionado();
 
+        luz.ligar();
+        luz.ligar();
+        luz.desligar();
+        luz.desligar();
+
+        System.out.println();
+
+        ar.ligar();
+        ar.ligar();
+        ar.desligar();
+        ar.desligar();
     }
 }
