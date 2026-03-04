@@ -1,13 +1,16 @@
-import Model.Ex08.Relatorio;
+import Model.Ex09.Deposito;
+import Model.Ex09.OperacaoBancaria;
+import Model.Ex09.Saque;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Ex08");
+        System.out.println("Ex09");
 
-        Relatorio relatorio = new Relatorio("Praticando Java 2026","Evoluindo muito");
+        OperacaoBancaria deposito = new Deposito(500);
+        OperacaoBancaria saque = new Saque(200);
 
-        relatorio.imprimir();
-
+        deposito.executar();
+        saque.executar();
 
     }
 }
