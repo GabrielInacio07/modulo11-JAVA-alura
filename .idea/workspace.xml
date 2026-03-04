@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="Ex05 - cria classe abstrata Payment e implementações CartaoCredito, Boleto e Pix com regras de taxa específicas">
-      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex06/Mensagem.java" afterDir="false" />
+    <list default="true" id="96d94398-564a-4aa4-838f-eb166a09814b" name="Changes" comment="Ex06 - adiciona variações de envio de mensagem utilizando sobrecarga de métodos">
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex07/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Model/Ex07/ReservaVip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/recap-POO-H-P/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/recap-POO-H-P/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772405508837</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ex06 - adiciona variações de envio de mensagem utilizando sobrecarga de métodos">
+      <option name="closed" value="true" />
+      <created>1772406909309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772406909309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +169,7 @@
     <MESSAGE value="Ex03 - Modelagem com classe abstrata, método abstrato e geração de código reutilizável nas subclasses" />
     <MESSAGE value="EX04 - implementa hierarquia de notificações com classe abstrata e sobrescrita de métodos&quot;" />
     <MESSAGE value="Ex05 - cria classe abstrata Payment e implementações CartaoCredito, Boleto e Pix com regras de taxa específicas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex05 - cria classe abstrata Payment e implementações CartaoCredito, Boleto e Pix com regras de taxa específicas" />
+    <MESSAGE value="Ex06 - adiciona variações de envio de mensagem utilizando sobrecarga de métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex06 - adiciona variações de envio de mensagem utilizando sobrecarga de métodos" />
   </component>
 </project>
